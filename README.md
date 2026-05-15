@@ -1,4 +1,4 @@
-# 💼 AutoJob.ai – Workday Job Application Automation
+# 💼 JobAuto.ai – Workday Job Application Automation
 
 This project automates the process of applying to jobs on Workday-powered career portals using Python + Playwright. It dynamically extracts and fills multi-step forms (like NVIDIA, Gap, etc.) and submits applications programmatically.
 
